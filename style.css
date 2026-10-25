@@ -197,3 +197,48 @@ h4 {
     font-size: 28px;
     white-space: nowrap;
 }
+
+.section-three {
+    margin-top: 200px;
+}
+
+.section-title {
+    width: 680px;
+    margin: auto;
+    text-align: center;
+}
+
+.section-title p {
+    margin-top: 20px;
+    font-size: 21px;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 60px;
+}
+
+.step {
+    width: 413px;
+    text-align: center;
+}
+
+.step img {
+    width: 270px;
+    height: 240px;
+    margin: 0 auto 35px;
+}
+
+.step h3 {
+    margin-bottom: 16px;
+}
+
+.step p {
+    font-size: 21px;
+}
+
+.section-three .buttons {
+    margin-top: 55px;
+}
