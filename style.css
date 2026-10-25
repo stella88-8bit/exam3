@@ -277,3 +277,54 @@ h4 {
 .service p {
     font-size: 21px;
 }
+
+.section-five {
+    margin-top: 140px;
+}
+
+.safe {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    height: 676px;
+    background-color: #211f54;
+    border-radius: 24px;
+    overflow: hidden;
+    color: white;
+}
+
+.safe-img {
+    width: 518px;
+    height: 676px;
+    flex-shrink: 0;
+    object-position: left bottom;
+}
+
+.safe-text {
+    width: 640px;
+}
+
+.safe-text h4 {
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    margin-bottom: 18px;
+}
+
+.safe-text h2 {
+    width: 560px;
+}
+
+.safe-text > p {
+    width: 490px;
+    color: white;
+    font-size: 21px;
+    margin-top: 20px;
+}
+
+.safe-text .span-text {
+    margin-top: 25px;
+}
+
+.safe-text .call-us-phone p {
+    color: white;
+}
