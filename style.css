@@ -242,3 +242,38 @@ h4 {
 .section-three .buttons {
     margin-top: 55px;
 }
+
+.section-four {
+    margin-top: 180px;
+}
+
+.services {
+    display: flex;
+    gap: 28px;
+    margin-top: 70px;
+}
+
+.service {
+    width: 415px;
+    min-height: 490px;
+    padding: 45px 40px 35px;
+    text-align: center;
+    border: 1px solid #eff0f6;
+    border-radius: 16px;
+    box-shadow: 0 2px 6px #14142b0a;
+}
+
+.service img {
+    width: 250px;
+    height: 220px;
+    margin: 0 auto 25px;
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.service p {
+    font-size: 21px;
+}
