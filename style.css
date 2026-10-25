@@ -506,3 +506,115 @@ h4 {
     color: white;
     font-size: 22px;
 }
+
+footer {
+    margin-top: 220px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    padding-bottom: 140px;
+}
+
+.footer-about {
+    width: 300px;
+}
+
+.footer-about h3 {
+    width: 270px;
+}
+
+.footer-about p {
+    margin-top: 12px;
+}
+
+.socials {
+    display: flex;
+    gap: 16px;
+    margin-top: 30px;
+}
+
+.socials a {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #edf5ff;
+    color: #0075ff;
+    border-radius: 8px;
+}
+
+.footer h4 {
+    margin-bottom: 28px;
+}
+
+.footer-contact {
+    width: 290px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.contact-item i {
+    width: 18px;
+    margin-top: 6px;
+    flex-shrink: 0;
+}
+
+.footer-hours {
+    width: 180px;
+}
+
+.hours {
+    margin-bottom: 22px;
+}
+
+.hours strong {
+    font-size: 17px;
+    white-space: nowrap;
+}
+
+.hours p {
+    margin-top: 8px;
+    white-space: nowrap;
+}
+
+.footer-quote {
+    width: 300px;
+}
+
+.footer-phone {
+    display: block;
+    color: #0075ff;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.footer-quote .btn {
+    margin-top: 20px;
+}
+
+.footer-bottom {
+    min-height: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #eff0f6;
+}
+
+.footer-bottom p {
+    font-size: 16px;
+}
+
+.footer-bottom a {
+    color: #0075ff;
+    text-decoration: underline;
+}
