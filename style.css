@@ -385,3 +385,55 @@ h4 {
     font-size: 15px;
     flex-shrink: 0;
 }
+
+.section-seven {
+    margin-top: 200px;
+}
+
+.different {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.different-text {
+    width: 550px;
+    flex-shrink: 0;
+}
+
+.different-text > p {
+    margin-top: 20px;
+}
+
+.different-text .small-text {
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.numbers {
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.numbers h3 {
+    font-size: 54px;
+    line-height: 66px;
+}
+
+.numbers span {
+    color: #0075ff;
+    font-weight: 400;
+}
+
+.numbers p {
+    font-weight: 700;
+}
+
+.different-img {
+    width: 686px;
+    height: 589px;
+    flex-shrink: 0;
+}
