@@ -485,11 +485,12 @@ h4 {
     width: 575px;
     min-height: 324px;
     padding: 45px;
-    margin: 25px auto 0;
+    margin: -60px auto 0;
     background-color: white;
     border: 1px solid #eff0f6;
     border-radius: 24px;
     box-shadow: 0 2px 6px #14142b0a;
+    position: relative;
 }
 
 .article-text h3 {
