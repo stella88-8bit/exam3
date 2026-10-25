@@ -328,3 +328,60 @@ h4 {
 .safe-text .call-us-phone p {
     color: white;
 }
+
+.section-six {
+    margin-top: 200px;
+}
+
+.areas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px;
+    padding-top: 100px;
+}
+
+.areas-img {
+    width: 640px;
+    height: 680px;
+    flex-shrink: 0;
+}
+
+.areas-text {
+    width: 560px;
+}
+
+.areas-text > p {
+    margin-top: 20px;
+}
+
+.areas-list {
+    display: flex;
+    gap: 60px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.areas-column {
+    width: 180px;
+}
+
+.areas-column p {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+    color: #211f54;
+    font-weight: 700;
+}
+
+.areas-column i {
+    width: 26px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0075ff;
+    font-size: 15px;
+    flex-shrink: 0;
+}
